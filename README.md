@@ -1,1 +1,1 @@
-Meal Planning Project using ServiceNow. 
+Meal Planning Project coded from scratch. There is another version being coded on ServiceNow as well to learn in tandem.
